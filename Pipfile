@@ -6,6 +6,13 @@ name = "pypi"
 [packages]
 pandas = "*"
 nbstripout = "*"
+vaderSentiment = "*"
+requests = "*"
+jupyterlab = "*"
+sklearn = "*"
+matplotlib = "*"
+graphviz = "*"
+cython = "*"
 
 [dev-packages]
 
